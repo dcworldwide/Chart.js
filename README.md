@@ -2,7 +2,7 @@
 
 # Chart.js 
 
-[![Build Status](https://travis-ci.org/nnnick/Chart.js.svg?branch=master)](https://travis-ci.org/nnnick/Chart.js) [![Code Climate](https://codeclimate.com/github/nnnick/Chart.js/badges/gpa.svg)](https://codeclimate.com/github/nnnick/Chart.js)
+[![Build Status](https://travis-ci.org/nnnick/Chart.js.svg?branch=master)](https://travis-ci.org/nnnick/Chart.js) [![Code Climate](https://codeclimate.com/github/nnnick/Chart.js/badges/gpa.svg)](https://codeclimate.com/github/nnnick/Chart.js) [![Chart.js on Slack](https://img.shields.io/badge/slack-Chart.js-blue.svg)](https://chartjs-slack-automation.herokuapp.com/)
 
 
 *Simple HTML5 Charts using the canvas element* [chartjs.org](http://www.chartjs.org)
@@ -19,9 +19,9 @@
 ## v2.0 Beta
 
 - Release: [2.0.0-beta](https://github.com/nnnick/Chart.js/releases/tag/2.0.0-beta)
-- Zip: [Download](https://github.com/nnnick/Chart.js/archive/2.0.0-beta.zip)
+- Zip: [Download](https://github.com/nnnick/Chart.js/archive/2.0.0-beta2.zip)
 
-Documentation for v2.0 is currently located [here](https://github.com/nnnick/Chart.js/tree/v2.0-dev/docs).
+Documentation for v2.0 is currently located [here](http://nnnick.github.io/Chart.js/docs-v2/).
 
 ## v2.0 Bleeding-Edge
 
